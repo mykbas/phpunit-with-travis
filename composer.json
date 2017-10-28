@@ -4,7 +4,8 @@
         "php": "^7.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^6.4"
+        "phpunit/phpunit": "^6.4",
+        "phpspec/prophecy": "^1.7"
     },
     "autoload": {
         "psr-4": {
